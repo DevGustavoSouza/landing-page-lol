@@ -203,5 +203,9 @@ nav ul li.btn:hover a {
     right: 0;
     text-align: right;
 }
+.image img {
+ width: 1200px;
+ height: auto;
+}
 
 
