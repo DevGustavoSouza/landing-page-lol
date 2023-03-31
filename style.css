@@ -99,8 +99,8 @@ nav ul li.btn:hover a {
 }
 .content .main-text .lol-logo {
     margin: 0px 0px 45px;
-    width: 680px;
-    height: 280px;
+    width: 460px;
+    height: auto;
 }
 .content > .main-text .riot-logo-line {
     width: 20vh;
