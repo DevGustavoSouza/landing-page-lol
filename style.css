@@ -68,7 +68,7 @@ nav ul li.active a {
 nav ul li.btn a {
     background: transparent;
     color: #f9f9f9;
-    border: 3px solid #f9f9f9;
+    border: 1px solid #f9f9f9;
     padding: 9px 20px;
     border-radius: 30px;
     line-height: 1.3;
@@ -131,13 +131,13 @@ nav ul li.btn:hover a {
 }
 .content > .main-text a:hover {
     transform: scale(1.2);
-    border: 3px solid #f9f9f9;
+    border: 1px solid #f9f9f9;
     background: transparent;
     color: white;
     transition: .4s;
 }
 .content > .main-text a.cta {
-    border: 3px solid #f9f9f9;
+    border: 1px solid #f9f9f9;
     background: transparent;
     color: white;
     margin-left: 25px;
@@ -148,7 +148,7 @@ nav ul li.btn:hover a {
 .content > .main-text a.cta:hover {
     color: #121212;
     background: white;
-    border: 3px solid #f9f9f957;
+    border: 1px solid #f9f9f957;
     transition: .4s;
 }
 .content .download {
